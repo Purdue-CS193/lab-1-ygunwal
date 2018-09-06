@@ -1,7 +1,7 @@
 ## Welcome to ygunwal's first CS193 Lab
 
 
-# Things i like:
+# Things I like:
 
 - The lab
 - The fact that I am doing something productive
@@ -21,11 +21,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 Syntax highlighted code block
 
-# Things i like:
-
-- The lab
-- The fact that I am doing something productive
-- That I am learning new things
 
 
 
