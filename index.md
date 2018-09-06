@@ -1,7 +1,7 @@
-## Welcome to ygunwal's first CS193 Lab
+# Welcome to ygunwal's first CS193 Lab
 
 
-# Things I like:
+## Things I like:
 
 - The lab
 - The fact that I am doing something productive
