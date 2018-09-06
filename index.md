@@ -15,6 +15,7 @@ Syntax highlighted code block
 
 - The lab
 - The fact that I am doing something productive
+- That I am learning new things
 
 
 
